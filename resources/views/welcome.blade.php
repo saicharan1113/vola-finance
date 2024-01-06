@@ -39,7 +39,7 @@
         </div>
     </div>
     <div class="flex-1 w-1/2">
-        <div class="grid grid-cols-2 justify-items-start">
+        <div class="grid grid-cols-2 justify-items-center">
             <div class="col-span-1/4">
                 Login
             </div>
