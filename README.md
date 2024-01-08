@@ -6,3 +6,4 @@
 - run `npm install`
 - run `npm run dev`
 - run `php artisan serve`
+![image](https://github.com/saicharan1113/vola-finance/assets/30258758/77b981d6-f21e-4a6a-829d-82671086a655)
