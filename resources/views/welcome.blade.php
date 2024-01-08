@@ -98,7 +98,7 @@
                 <p class="text-wrap text-sm text-gray-600">the quick fox jumps over the lazy dog</p>
             </div>
 
-            <div class="bg-sky-500 h-40 col-span-4 space-y-1 flex flex-col px-10 py-5 bg-white overflow-hidden shadow hover:shadow-md">
+            <div class="bg-sky-500 h-40 col-span-4 space-y-1 flex flex-col px-10 py-5 overflow-hidden shadow hover:shadow-md">
                 <div>
                     <img alt="people" src="{{url('storage/VolaFinance/IcnPeopleIcon.png')}}">
                 </div>
